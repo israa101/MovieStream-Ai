@@ -189,5 +189,5 @@ This project is licensed under the MIT License.
 
 ## 👤 Author
 
-**Mahmoud Mansour**
-GitHub: [@Mahmoud-Mansour5](https://github.com/Mahmoud-Mansour5)
+**Israa Hamdy**
+GitHub: [@israa101](https://github.com/israa101)
